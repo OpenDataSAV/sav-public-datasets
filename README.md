@@ -22,3 +22,8 @@ SEDA has a rich repository of open data available for download [here](http://www
 
 More to come after Turkey Day.
 
+### Geospatial Boundaries, Precincts, Neighborhoods, etc.
+
+All geospatial data gathered regarding Greater Savannah boundaries and census tracts can be found in `.../Data/Geospatial/` 
+
+Whenever possible, we'll post the geographic data in all three most common formats: SHP (Shapefile), KML and GeoJSON.
