@@ -28,3 +28,8 @@ More to come after Turkey Day.
 All geospatial data gathered regarding Greater Savannah boundaries and census tracts can be found in `.../Data/Geospatial/` 
 
 Whenever possible, we'll post the geographic data in all three most common formats: SHP (Shapefile), KML and GeoJSON.
+
+
+### State-Level Open Data Portals (Ga.)
+
++ Open Georgia: http://www.open.georgia.gov/
